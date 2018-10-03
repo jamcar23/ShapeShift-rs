@@ -1,0 +1,6 @@
+[package]
+name = "ShapeShiftAPI"
+version = "0.1.0"
+authors = ["James Carroll <jamcar23@gmail.com>"]
+
+[dependencies]
